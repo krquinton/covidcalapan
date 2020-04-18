@@ -1,0 +1,14 @@
+var hospitals = {
+"type": "FeatureCollection",
+"name": "Hospitals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Hospital": "Provincial Hospital", "Latitude": 13.376252, "Longitude": 121.177754,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.177754, 13.376252 ] } },
+{ "type": "Feature", "properties": { "Hospital": "MMG Hospital", "Latitude": 13.390321, "Longitude": 121.166008,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.166008, 13.390321 ] } },
+{ "type": "Feature", "properties": { "Hospital": "Ma Estrella Hospital", "Latitude": 13.396099, "Longitude": 121.169156,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.169156, 13.396099 ] } },
+{ "type": "Feature", "properties": { "Hospital": "Luna Goco Hospital", "Latitude": 13.400482, "Longitude": 121.170641,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.170641, 13.400482 ] } },
+{ "type": "Feature", "properties": { "Hospital": "SMV Hospital", "Latitude": 13.409092, "Longitude": 121.17524,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.17524, 13.409092 ] } },
+{ "type": "Feature", "properties": { "Hospital": "Holy Cross Hospital", "Latitude": 13.411817, "Longitude": 121.182188,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.182188, 13.411817 ] } },
+{ "type": "Feature", "properties": { "Hospital": "Childrens Hospital", "Latitude": 13.418488, "Longitude": 121.186756,"Contact No":null, "Confirmed Cases": null, "Probable Cases": null, "Available Ward Bed": null, "Available Isolation Bed": null, "Available ICU Bed": null, "Available Ventilator": null}, "geometry": { "type": "Point", "coordinates": [ 121.186756, 13.418488 ] } }
+]
+}
